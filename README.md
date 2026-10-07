@@ -45,11 +45,3 @@ http://127.0.0.1:8000
 
 - GitHub: https://github.com/Lewason
 - LinkedIn: https://www.linkedin.com/in/ignas-malewa-a0a4a3362
-
-## Recommended next improvements
-
-- Add a professional profile photo.
-- Add a downloadable CV.
-- Replace lab descriptions with links to public writeups where appropriate.
-- Add screenshots for selected projects.
-- Add a custom domain later if desired.
