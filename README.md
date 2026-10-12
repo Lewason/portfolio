@@ -268,4 +268,3 @@ The purpose of this work is education, security research, and professional skill
 **Cybersecurity | Mobile Application Security | Digital Forensics**
 
 Focused on learning deeply, testing ethically, and documenting clearly.
->>>>>>> 58859df (Overview of my portfolio)
